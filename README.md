@@ -1,23 +1,22 @@
-### Visualize Animal-free Product Consumption by Eating Habits
-###Purpose
-###Purpose
+# Visualize Animal-free Product Consumption by Eating Habits
+## Purpose
 
 The purpose of this project is to create a visual that is more preferable to a stacked bar chart for looking at possible relationships between the frequency of animal-free food consumption and the type of diet with which individuals identify .   
 
-#Survey Details
+## Survey Details
 The diet types that respondents selected included vegans, vegetarians, pescatarians, flexitarians and meat-eaters. 
 
 Animal-free products were described as meat-free or dairy-free, for example. 
 
 Survey size included 45 vegans and other diet types included 100 or more respondents.  The data was collected in 2018 and January 2019 in Great Britain. 
 
-##Data
+## Data
 
 <img width="578" alt="Screen Shot 2021-11-02 at 11 22 51 AM" src="https://user-images.githubusercontent.com/62402303/139941231-abe52233-01c2-43e5-8961-4e9a1e8af485.png">
 
 https://data.world/makeovermonday/2020w23-animal-free-products-consumption-in-great-britain/workspace/file?filename=MMW23.xlsx
 
-##Visual
+## Visual
 
 Visual #1 - Stacked Bar Chart - Less Preferable
 
