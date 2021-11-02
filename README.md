@@ -16,7 +16,7 @@ Survey size included 45 vegans and other diet types included 100 or more respond
 
 https://data.world/makeovermonday/2020w23-animal-free-products-consumption-in-great-britain/workspace/file?filename=MMW23.xlsx
 
-## Visual
+## Visuals
 
 Visual #1 - Stacked Bar Chart - Less Preferable
 
