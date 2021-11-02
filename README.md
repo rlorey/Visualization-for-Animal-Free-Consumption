@@ -13,7 +13,7 @@ Survey size included 45 vegans and other diet types included 100 or more respond
 
 ##Data
 
-Screen Shot 2021-11-02 at 11.22.51 AM.png
+<img width="578" alt="Screen Shot 2021-11-02 at 11 22 51 AM" src="https://user-images.githubusercontent.com/62402303/139941231-abe52233-01c2-43e5-8961-4e9a1e8af485.png">
 
 https://data.world/makeovermonday/2020w23-animal-free-products-consumption-in-great-britain/workspace/file?filename=MMW23.xlsx
 
