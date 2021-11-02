@@ -29,5 +29,6 @@ Visual #2 - Panel Bar Chart - More Preferable
 In this visual, it is easier to compare the data for frequency of consumption to self-identified diet.  For example, in the first column, it is clear to see that as the respondents self-identify more with eating meat (from vegan to meat-eater) the daily consumption of Animal-Free products decreases.
 
 # Acknowledgments
+
 makeovermonday.co.uk
 codingdojo.com
