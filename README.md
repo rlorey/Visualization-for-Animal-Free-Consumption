@@ -21,8 +21,6 @@ https://data.world/makeovermonday/2020w23-animal-free-products-consumption-in-gr
 
 Visual #1 - Stacked Bar Chart - Less Preferable
 
-Screen Shot 2021-11-02 at 1.39.25 PM.png
-
 Visual #2 - Panel Bar Chart - More Preferable 
 
 <img width="727" alt="Panel Bar Chart" src="https://user-images.githubusercontent.com/62402303/139930805-1d09dddf-324f-4826-b24f-ce9f78751399.png">
